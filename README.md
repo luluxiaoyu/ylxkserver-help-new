@@ -24,9 +24,7 @@ QQ群：[992198378](https://jq.qq.com/?_wv=1027&k=yZWgY5Ku)
 
 本服务器在2020年8月6日下午开服！
 
-与2020年10月份升级为群组服务器
-
-![image-20210210105916849](./README.assets/image-20210210105916849.png)
+与2020年10月份升级为群组服务器!
 
 -----
 
@@ -77,4 +75,5 @@ MC百科地址：<a href="https://play.mcmod.cn/sv20184789.html" target="_blank"
 
 或者从GitHub fork后提交
 
------
+
+ <comment-comment/> 
