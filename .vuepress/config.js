@@ -123,6 +123,7 @@ module.exports = {
             sidebarDepth: 2,    // 可选的, 默认值是 1
             children: [
               '/part4/',
+              '/part4/8',
               '/part4/1',
               '/part4/2',
               '/part4/3',
